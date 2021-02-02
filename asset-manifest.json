@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Cookery/static/css/main.efe936b6.chunk.css",
+    "main.js": "/Cookery/static/js/main.413f9d5e.chunk.js",
+    "main.js.map": "/Cookery/static/js/main.413f9d5e.chunk.js.map",
+    "runtime-main.js": "/Cookery/static/js/runtime-main.3428e1f0.js",
+    "runtime-main.js.map": "/Cookery/static/js/runtime-main.3428e1f0.js.map",
+    "static/js/2.213e540a.chunk.js": "/Cookery/static/js/2.213e540a.chunk.js",
+    "static/js/2.213e540a.chunk.js.map": "/Cookery/static/js/2.213e540a.chunk.js.map",
+    "static/js/3.65b24a05.chunk.js": "/Cookery/static/js/3.65b24a05.chunk.js",
+    "static/js/3.65b24a05.chunk.js.map": "/Cookery/static/js/3.65b24a05.chunk.js.map",
+    "index.html": "/Cookery/index.html",
+    "static/css/main.efe936b6.chunk.css.map": "/Cookery/static/css/main.efe936b6.chunk.css.map",
+    "static/js/2.213e540a.chunk.js.LICENSE.txt": "/Cookery/static/js/2.213e540a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3428e1f0.js",
+    "static/js/2.213e540a.chunk.js",
+    "static/css/main.efe936b6.chunk.css",
+    "static/js/main.413f9d5e.chunk.js"
+  ]
+}
